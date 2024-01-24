@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/react-basic-concepts-assignment/static/css/main.94297dd1.css",
-    "main.js": "/github.io/react-basic-concepts-assignment/static/js/main.b6ea0c6e.js",
-    "static/js/787.f7aa304d.chunk.js": "/github.io/react-basic-concepts-assignment/static/js/787.f7aa304d.chunk.js",
-    "index.html": "/github.io/react-basic-concepts-assignment/index.html",
-    "main.94297dd1.css.map": "/github.io/react-basic-concepts-assignment/static/css/main.94297dd1.css.map",
-    "main.b6ea0c6e.js.map": "/github.io/react-basic-concepts-assignment/static/js/main.b6ea0c6e.js.map",
-    "787.f7aa304d.chunk.js.map": "/github.io/react-basic-concepts-assignment/static/js/787.f7aa304d.chunk.js.map"
+    "main.css": "/samuelhooper/github.io/react-basic-concepts-assignment/static/css/main.94297dd1.css",
+    "main.js": "/samuelhooper/github.io/react-basic-concepts-assignment/static/js/main.cb08547c.js",
+    "static/js/787.f7aa304d.chunk.js": "/samuelhooper/github.io/react-basic-concepts-assignment/static/js/787.f7aa304d.chunk.js",
+    "index.html": "/samuelhooper/github.io/react-basic-concepts-assignment/index.html",
+    "main.94297dd1.css.map": "/samuelhooper/github.io/react-basic-concepts-assignment/static/css/main.94297dd1.css.map",
+    "main.cb08547c.js.map": "/samuelhooper/github.io/react-basic-concepts-assignment/static/js/main.cb08547c.js.map",
+    "787.f7aa304d.chunk.js.map": "/samuelhooper/github.io/react-basic-concepts-assignment/static/js/787.f7aa304d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94297dd1.css",
-    "static/js/main.b6ea0c6e.js"
+    "static/js/main.cb08547c.js"
   ]
 }
