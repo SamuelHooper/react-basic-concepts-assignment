@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-basic-concepts-assignment/static/css/main.94297dd1.css",
-    "main.js": "/react-basic-concepts-assignment/static/js/main.e199f394.js",
+    "main.css": "/react-basic-concepts-assignment/static/css/main.139827ac.css",
+    "main.js": "/react-basic-concepts-assignment/static/js/main.fbfed43d.js",
     "static/js/787.f7aa304d.chunk.js": "/react-basic-concepts-assignment/static/js/787.f7aa304d.chunk.js",
     "index.html": "/react-basic-concepts-assignment/index.html",
-    "main.94297dd1.css.map": "/react-basic-concepts-assignment/static/css/main.94297dd1.css.map",
-    "main.e199f394.js.map": "/react-basic-concepts-assignment/static/js/main.e199f394.js.map",
+    "main.139827ac.css.map": "/react-basic-concepts-assignment/static/css/main.139827ac.css.map",
+    "main.fbfed43d.js.map": "/react-basic-concepts-assignment/static/js/main.fbfed43d.js.map",
     "787.f7aa304d.chunk.js.map": "/react-basic-concepts-assignment/static/js/787.f7aa304d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.94297dd1.css",
-    "static/js/main.e199f394.js"
+    "static/css/main.139827ac.css",
+    "static/js/main.fbfed43d.js"
   ]
 }
